@@ -1,0 +1,7 @@
+pyttsx3
+idle
+sv_ttk==2.4
+wikipedia
+googletrans
+pyperclip
+customtkinter==4.6.1
